@@ -1,0 +1,18 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    text-align: center;
+    background-color: black;
+    color:#ffffff;
+    line-height: 100px;
+}
+table{
+    background-color: beige;
+    display: flex;
+   justify-content: center;
+   margin-top: -20px;
+}
+th{
+    padding-right: 40px;
+}
