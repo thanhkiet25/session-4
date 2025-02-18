@@ -1,0 +1,24 @@
+
+.item{
+    width: 200px;
+    height: 100%;
+    background-color: #3333339d;
+    padding: 10px;
+    position: fixed;
+    left: 0;
+    top: 0;
+    overflow-y: auto;
+}
+.item a{
+    display: block;
+    padding: 20px;
+    text-decoration: none;
+    color: #ffffff;
+}
+.item a:hover{
+    background-color: chartreuse;
+}
+.main{
+    margin-left: 250px;
+    padding: 30px;
+}
