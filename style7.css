@@ -1,0 +1,52 @@
+*{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+   
+
+.p1{
+    display: block;
+    background-color: rgba(183, 184, 235, 0.975);
+    font-size: 35px;
+    margin-left: 750px ;
+    margin-right: 750px;
+   
+}
+h1 b{
+color: cornflowerblue;
+}
+button[type="button"]{
+    background-color: #333;
+    color: #ffffff;
+    padding: 8px 20px;
+    margin-right: 20px;
+}
+section p b{
+    color: red;
+}
+.p2{
+
+    display: block;
+    border: 1px solid #333;
+    width: 500px;
+    
+}
+.p2 form{
+    text-align: left;
+    padding-left: 10px;
+}
+input{
+    width: 470px; 
+}
+input[type="file"]{
+    border: 1px solid rgba(171, 161, 113, 0.744);
+    padding:4px;
+}
+input[type="submit"]{
+    margin-bottom: 30px;
+    padding: 8px;
+    background-color: #333;
+    color: #ffffff;
+}
+
