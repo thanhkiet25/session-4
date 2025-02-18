@@ -1,0 +1,13 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+form{
+    margin-left: 40px;
+}
+input[type="submit"]{
+    text-align: center;
+    padding: 5px 265px;
+    background-color: rgba(25, 186, 68, 0.648);
+    color: #ffffff;
+}
